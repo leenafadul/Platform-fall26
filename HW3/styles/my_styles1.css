@@ -1,0 +1,84 @@
+
+
+h1 {
+    color:deeppink;
+    font-size: 2.8em;
+    font-weight: bold;
+    text-align: center;
+}
+
+td, th {
+    border:solid hotpink;
+}
+
+body {
+    font-size: 1em;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(255, 111, 159);
+    text-align: left;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.pink {
+    background-color:lightpink;
+}
+
+.blush {
+    background-color:rgb(255, 229, 233);
+}
+
+.yellow {
+    background-color: lemonchiffon;
+}
+
+.green {
+    background-color:honeydew;
+}
+.blue {
+    background-color:aliceblue;
+}
+
+#first {
+    background-color: lemonchiffon;
+}
+
+.border {
+    border-style: solid;
+    background-color: floralwhite;
+}
+
+.banner{
+    background-color: cornsilk;
+    border-bottom: solid;
+    border-top: solid;
+    border-left: solid;
+    border-right: solid;
+}
+
+.header {
+    background-color: lemonchiffon;
+    border-style:dotted;
+}
+
+a {
+    color: black;
+}
+
+.nav-pills .nav-link.active {
+    background-color: lightpink;
+    color: lemonchiffon;
+}
+
+.nav-pills .nav-link {
+    color: deeppink;              
+    background-color: cornsilk; 
+}
+
+.title {
+    color:deeppink;
+    font-size: 2.8em;
+    font-weight: bold;
+    text-align: left;
+}
